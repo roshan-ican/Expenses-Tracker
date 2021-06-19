@@ -1,3 +1,6 @@
+#preview
+<img src= "https://github.com/roshan-ican/Expenses-Tracker/blob/main/img/Screenshot%20(31).png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
